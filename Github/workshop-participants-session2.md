@@ -6,7 +6,6 @@
 
 ## Add your Name, Github name, what specific aspect of Github do you find challenging?
 
-Gaurav, gvbhalerao591, CI/CD
 
 ## Session participants 2023
 
@@ -22,7 +21,7 @@ Gaurav, gvbhalerao591, CI/CD
 ## Session participants - 9am to 11am UTC
 * Javier Sopesens, jsopesens
 * Niklas Hausmann, Niklas-palaeo,, simply getting used to it is challenging enough!
-* 
+* Gaurav, gvbhalerao591, CI/CD
 *
 *
 *
