@@ -9,7 +9,7 @@
 
 ## Session participants 2023
 
-*
+* André Piza, @andrepiza, I find the interface a bit challenging - there are so many menus that I struggle to understand where I am in the repo.
 *
 *
 *
