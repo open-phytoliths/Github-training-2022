@@ -1,4 +1,4 @@
-# Github training
+# Github training OK
 
 Here are all of the training materials for the Github training sessions.
 
